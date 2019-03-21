@@ -1,4 +1,4 @@
-package com.problem.solving.sockMerchant;
+package com.problem.solving;
 
 import java.util.ArrayList;
 import java.util.HashMap;

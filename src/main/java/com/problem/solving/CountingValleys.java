@@ -1,4 +1,4 @@
-package com.problem.solving.countingValleys;
+package com.problem.solving;
 
 public class CountingValleys {
 

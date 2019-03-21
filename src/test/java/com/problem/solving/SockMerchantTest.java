@@ -1,6 +1,5 @@
 package com.problem.solving;
 
-import com.problem.solving.sockMerchant.SockMerchant;
 import org.junit.Assert;
 import org.junit.Test;
 

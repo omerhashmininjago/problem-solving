@@ -1,6 +1,5 @@
 package com.problem.solving;
 
-import com.problem.solving.countingValleys.CountingValleys;
 import org.junit.Assert;
 import org.junit.Test;
 
